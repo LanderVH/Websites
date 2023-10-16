@@ -1,0 +1,15 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    padding: 0%;
+    margin: 0%;
+    font-size: 2em;
+    color: orange;
+}
+
+div {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}

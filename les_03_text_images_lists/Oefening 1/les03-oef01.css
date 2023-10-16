@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    font-size: 15px;
+    color: darkblue;
+}
+
+h1 {
+    margin: 0;
+    padding: 0%;
+    font-size: 2em;
+    color: #fa6432;
+}
+
+p   {
+    margin: 0%;
+    padding: 15px;
+}
+
+.afbeelding {
+    width: 200px;
+}
+
+.lijntje {
+    size: 1px;
+    border-color: darkblue;
+}
+
+a {
+    color: #fa6432;
+}
+
+div {
+    width: 200px;
+    border: 1px;
+    background-color: darkblue;
+}
